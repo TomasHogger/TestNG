@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestNGListener:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestNGListener_jar</output-path>
+    <root id="archive" name="TestNGListener.jar">
+      <element id="module-output" name="TestNGListener" />
+    </root>
+  </artifact>
+</component>
